@@ -16,7 +16,10 @@ This repo is functionality complete — PRs and issues welcome!
 ------------------------------------------------------------------------
 To get the Node server running locally:
 
-Clone this repo
-npm install to install all required dependencies
-Install MongoDB Community Edition (instructions) and run it by executing mongod
-npm run dev to start the local server
+    Clone this repo
+    
+    npm install to install all required dependencies
+
+    Install MongoDB Community Edition (instructions) and run it by executing mongod
+
+     npm run dev to start the local server
